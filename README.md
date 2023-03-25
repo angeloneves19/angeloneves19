@@ -37,4 +37,4 @@
 </div>
 
 
-![Snake animation](https://github.com/angeloneves19/angeloneves19/blob/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/angeloneves19/angeloneves19/blob/github-contribution-grid-snake.svg)
