@@ -7,8 +7,8 @@
 - 😄 Pronouns: He/His
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=dark"> 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=dracula"> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=dracula">
 </div>
 
   ##
@@ -29,4 +29,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
