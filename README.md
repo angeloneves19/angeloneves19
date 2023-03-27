@@ -1,10 +1,10 @@
-### Olá! Eu sou Ângelo Neves
+### Hello! I am Ângelo Neves
 
-- 🔭 Hoje trabalho como front-end.
+- 🔭 Today I work as a front-end.
 
-- 🌱 Estudando Javascript, React.js e objetos!
+- 🌱 Studying Javascript, React.js and objects!
 
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronouns: He/His
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=dark"> 
