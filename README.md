@@ -4,13 +4,11 @@
 
 - 🌱 Studying Javascript, React.js and objects!
 
-- 😄 Pronouns: He/His
-
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=dracula"> 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=dracula">
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=transparent"> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=transparent">
 
+<div/>
   ##
  
   <div style="display: inline_block"><br>
