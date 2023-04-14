@@ -5,8 +5,8 @@
 - 🌱 Studying Javascript, React.js and objects!
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=transparent"> 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=transparent">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=dracula"> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&langs_count=16&theme=dracula">
 
 <div/>
  
