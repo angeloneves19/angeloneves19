@@ -5,7 +5,13 @@
 - 🌱 Studying Javascript, React.js and objects!
 
 <div>
-
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&layout=compact&langs_count=16&theme=transparent"/>
+</a>
 
 <div/>
  
