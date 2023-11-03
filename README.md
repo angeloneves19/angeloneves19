@@ -21,10 +21,11 @@
  
  ### Main skills:
  <div style="display: inline_block"><br>
+   <img align="center" alt="Ângelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Ângelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ângelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ângelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ângelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ângelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 
 
 ### Studying in this moment:
@@ -36,8 +37,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{angeloneves19}/count.svg" /></p> 
 <br>
 </div>
-
-<img align="right" width="150" height="100" src=""/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0067F7&height=120&section=footer"/>
 
