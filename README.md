@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/angeloneves19">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&show_icons=true&title_color=0067F7&icon_color=0067F7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angeloneves19&layout=compact&langs_count=7&title_color=0067F7&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&"/>
    <a href="https://github.com/angeloneves19"> 
    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloneves19&layout=compact&langs_count=7&title_color=0067F7&icon_color=0067F7&text_color=0067F7&bg_color=0d1117&"/>
 </div>
