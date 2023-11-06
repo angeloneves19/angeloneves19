@@ -13,12 +13,6 @@
      
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angeloneves19&bg_color=0d1117&color=0067F7&line=0067F7&point=08326c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"> 
-<a href="https://www.instagram.com/angelo_nevess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:angelorogeriodasilvaneves2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/angelo-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
  ### Main skills:
  <div style="display: inline_block"><br>
    <img align="center" alt="Ângelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,11 +20,19 @@
   <img align="center" alt="Ângelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ângelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-
-
 ### Studying in this moment:
 <img align="center" alt="Ângelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Ângelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<table align="center" border="0">
+  <tr>
+    <td>
+       <h3>🤝 contact me:</h3>
+    <a href="https://www.linkedin.com/in/angelo-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:angelorogeriodasilvaneves2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </td>
+  </tr>
+</table>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -39,4 +41,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0067F7&height=120&section=footer"/>
-
