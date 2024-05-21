@@ -20,9 +20,18 @@
   <img align="center" alt="Ângelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center"  height="32"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
    <img align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-   <img align="center" alt="Ângelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
-   <img  align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
+   <img align="center" alt="Ângelo-React-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img  align="center" height="44" src="https://cdn.freebiesupply.com/logos/thumbs/2x/next-logo.png" alt="Next.js"/>
+   <img  align="center" height="44" src="https://www.benner.com.br/tecnologia/wp-content/themes/desenv/liberacoes/img/rest.png" alt="Api Rest logo"/>
+   <img  align="center" height="44" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="Express logo"/>
+   <img  align="center" height="44" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="Typorm logo"/>
+   <img align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL logo"/>
+   <img  align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL logo"/>
+   <img  align="center" height="32" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git bash logo"/>
+   <img  align="center" height="42" src="https://avatars.githubusercontent.com/u/49963700?s=280&v=4" alt="Nvm logo"/>
+   <img  align="center" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="Npm logo"/>
+   
+   
  
   
 ### Studying in this moment:
