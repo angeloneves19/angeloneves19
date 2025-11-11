@@ -22,7 +22,7 @@
    <img align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
    <img align="center" alt="Ângelo-React-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img  align="center" height="44" src="https://cdn.freebiesupply.com/logos/thumbs/2x/next-logo.png" alt="Next.js"/>
-   <img  align="center" height="44" src="https://www.benner.com.br/tecnologia/wp-content/themes/desenv/liberacoes/img/rest.png" alt="Api Rest logo"/>
+   <img  align="center" height="44" src="https://github.com/user-attachments/assets/1d61643a-ac5d-4585-8bad-2b8fb7834e4c" alt="Api Rest logo"/>
    <img  align="center" height="44" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="Express logo"/>
    <img  align="center" height="44" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="Typorm logo"/>
    <img  align="center" height="32" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git bash logo"/>
@@ -30,13 +30,21 @@
    <img  align="center" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="Npm logo"/>
    <img align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL logo"/>
    <img  align="center" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL logo"/>
+   <img  align="center" height="32" src="https://github.com/user-attachments/assets/8639ebc5-2552-4043-8dea-3477a1532305" alt="Metologia Agil logo"/>
+    <img  align="center" height="32" src="https://github.com/user-attachments/assets/4d51ec45-abf6-4d2e-9b95-f297b095a5a7" alt="Java logo"/>
+
+
+   
+  
+
    
    
    
  
   
 ### Studying in this moment:
-<img align="center" alt="Ângelo-Js" height="70" width="130" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fyo35aymkgnlgfk6t5fcf.png">
+<img align="center" alt="Logo Senac" height="70" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png">
+<img align="center" alt="Logo Java" height="70" width="130" src="https://github.com/user-attachments/assets/4d51ec45-abf6-4d2e-9b95-f297b095a5a7">
 
 
 <table align="center" border="0">
@@ -48,11 +56,5 @@
    </td>
   </tr>
 </table>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{angeloneves19}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0067F7&height=120&section=footer"/>
