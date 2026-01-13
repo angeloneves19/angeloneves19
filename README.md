@@ -52,7 +52,9 @@
     <td>
        <h3>🤝 contact me:</h3>
     <a href="https://www.linkedin.com/in/angelo-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:angelonevesprofisional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://mail.google.com/mail/?view=cm&to=angelonevesprofisional@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
    </td>
   </tr>
 </table>
